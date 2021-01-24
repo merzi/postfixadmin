@@ -2,7 +2,7 @@
 
 ![postfixadmin](http://i.imgur.com/UCtvKHR.png "postfixadmin")
 
-### What is this ?
+### What is this?
 
 PostfixAdmin is a web based interface used to manage mailboxes, virtual domains and aliases. It also features support for vacation/out-of-the-office messages.
 
@@ -10,9 +10,9 @@ PostfixAdmin is a web based interface used to manage mailboxes, virtual domains 
 
 - Lightweight & secure image (no root process)
 - Based on Alpine Linux
-- Latest Postfixadmin version (3.2)
+- Latest Postfixadmin version (3.3.4)
 - MariaDB/PostgreSQL driver
-- With PHP7
+- With PHP8
 
 ### Built-time variables
 
